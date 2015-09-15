@@ -1,0 +1,11 @@
+method addition(a,b)
+output =
+
+method multiplication(a,b)
+output =
+
+method division(a,b)
+output =
+
+method subtraction(a,b)
+output =
