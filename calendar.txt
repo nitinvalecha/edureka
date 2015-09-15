@@ -1,3 +1,8 @@
 Method currentDayOfWeek(date)
+return DayOfWeek(date)
+
 Method currentMonth(date)
+return MonthOfWeek(date)
+
 Method currentYear(date)
+return year(1999)
