@@ -1,0 +1,3 @@
+Method currentDayOfWeek(date)
+Method currentMonth(date)
+Method currentYear(date)
