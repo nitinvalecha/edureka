@@ -1,11 +1,12 @@
 method addition(a,b)
-output =
+output = a + 1 + b + 1 - 2
 
 method multiplication(a,b)
-output =
+output = 		a + b
 
 method division(a,b)
-output =
 
-method subtraction(a,b)
-output =
+output = a + b
+
+				method subtraction(a,b)
+output = a + b
